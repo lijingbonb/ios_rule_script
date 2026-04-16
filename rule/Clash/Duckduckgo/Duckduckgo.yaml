@@ -48,3 +48,6 @@ payload:
   - DOMAIN-SUFFIX,privacysimplified.com
   - DOMAIN-SUFFIX,privatebrowsingmyths.com
   - DOMAIN-SUFFIX,spreadprivacy.com
+  - DOMAIN-SUFFIX,improving.duckduckgo.com
+  - DOMAIN-SUFFIX,links.duckduckgo.com
+
