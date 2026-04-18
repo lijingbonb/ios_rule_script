@@ -8,3 +8,7 @@ payload:
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-SUFFIX,okx.com
+  - wsdexpri.okx.com.cdn.cloudflare.net
+  - web3.okx.com.cdn.cloudflare.net
+  - www.okx.com.cdn.cloudflare.net
+  
