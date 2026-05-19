@@ -23,8 +23,8 @@ payload:
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN-SUFFIX,142.250.*
   - DOMAIN-SUFFIX,142.251.*
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,apis.google.com
 
