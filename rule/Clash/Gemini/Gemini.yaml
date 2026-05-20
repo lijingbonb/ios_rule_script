@@ -7,7 +7,7 @@
 # DOMAIN-SUFFIX: 7
 # TOTAL: 13
 payload:
-  - DOMAIN,lh5.googleusercontent.com
+- DOMAIN,lh5.googleusercontent.com
 - DOMAIN,www.googleapis.com
 - DOMAIN,ssl.gstatic.com
 - DOMAIN,fonts.googleapis.com
