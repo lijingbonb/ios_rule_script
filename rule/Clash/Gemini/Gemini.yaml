@@ -10,6 +10,8 @@ payload:
   - DOMAIN,www.googleapis.com
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,maps.googleapis.com
+  - DOMAIN,clientservices.googleapis.com
+  - DOMAIN,clients4.google.com
   - DOMAIN,jnn-pa.googleapis.com
   - DOMAIN,notifications-pa.googleapis.com
   - DOMAIN,oauth2.googleapis.com
@@ -23,6 +25,7 @@ payload:
   - DOMAIN,waa-pa.clients6.google.com
   - DOMAIN,ogads-pa.clients6.google.com
   - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN,csp.withgoogle.com
 
   # ======== 静态资源 / 缓存 / 图片 ========
@@ -30,12 +33,22 @@ payload:
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,maps.gstatic.com
+  - DOMAIN,gemini.gstatic.com
   - DOMAIN,encrypted-tbn0.gstatic.com
   - DOMAIN,encrypted-tbn1.gstatic.com
   - DOMAIN,encrypted-tbn2.gstatic.com
   - DOMAIN,encrypted-tbn3.gstatic.com
   - DOMAIN,lh3.googleusercontent.com
   - DOMAIN,lh5.googleusercontent.com
+
+  # ======== GVT 服务 (组件下载/行为追踪) ========
+  - DOMAIN,beacons.gvt2.com
+  - DOMAIN,beacons2.gvt2.com
+  - DOMAIN,beacons3.gvt2.com
+  - DOMAIN,beacons4.gvt2.com
+  - DOMAIN,beacons5.gvt2.com
+  - DOMAIN,beacons.gcp.gvt2.com
+  - DOMAIN,beacons5.gvt3.com
 
   # ======== YouTube 相关 ========
   - DOMAIN,www.youtube.com
@@ -49,12 +62,11 @@ payload:
   - DOMAIN,td.doubleclick.net
   - DOMAIN,googleads.g.doubleclick.net
 
-  # ======== 后缀补充 (防止新变动断连) ========
+  # ======== 其他第三方服务 ========
+  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN,duckduckgo.com
+  - DOMAIN,improving.duckduckgo.com
+
+  # ======== 后缀补充 ========
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,clients6.google.com
-
-# ======== 补充 ========
-  - DOMAIN,clientservices.googleapis.com
-  - DOMAIN,clients4.google.com
-  - DOMAIN,signaler-pa.clients6.google.com
-  - DOMAIN,gemini.gstatic.com
