@@ -52,3 +52,9 @@ payload:
   # ======== 后缀补充 (防止新变动断连) ========
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,clients6.google.com
+
+# ======== 补充 ========
+  - DOMAIN,clientservices.googleapis.com
+  - DOMAIN,clients4.google.com
+  - DOMAIN,signaler-pa.clients6.google.com
+  - DOMAIN,gemini.gstatic.com
