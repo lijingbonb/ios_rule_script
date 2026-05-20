@@ -20,11 +20,18 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN-SUFFIX,142.250.*
   - DOMAIN-SUFFIX,142.251.*
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-SUFFIX,apis.google.com
-
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,withgoogle.com
